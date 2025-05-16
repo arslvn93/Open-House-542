@@ -1,4 +1,4 @@
-{
+const config = {
   "property": {
     "streetAddress": "2450 Brayford Cres",
     "city": "London",
@@ -58,6 +58,6 @@
     "repoUrl": "https://github.com/arslvn93/Open-House-542",
     "tag": "Open House 2450 Brayford",
     "netlifyUrl": "http://Open-House-542.netlify.app",
-    "netlifyId": "984834961"
+    "netlifyId": "40a4e8a6-d2b9-4e53-bb30-f3bf67fd0b65"
   }
 }
